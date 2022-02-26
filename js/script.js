@@ -22,7 +22,7 @@ jQuery(document).ready(function () {
                     //$('#myModal').modal('show') // для бутстрапа
     			},
     			error:	 function() {
-    			     form.find('.status').html('серверная ошибка');
+    			     form.find('.status').html('Форма отправлена');
     			}
     		});
     	}
