@@ -1,0 +1,78 @@
+#navigation-ffcc5089-443e-6b0c-7aa5-4ff952a8e301 {
+	text-align: left;
+}.rtl #navigation-ffcc5089-443e-6b0c-7aa5-4ff952a8e301 {
+	text-align: right;
+}#navigation-ffcc5089-443e-6b0c-7aa5-4ff952a8e301 li > a {
+			
+			
+		}
+		#navigation-ffcc5089-443e-6b0c-7aa5-4ff952a8e301 li {
+			margin: 0px 0px 0px 0px;
+		}
+		#navigation-ffcc5089-443e-6b0c-7aa5-4ff952a8e301 li > a {
+			font-weight: normal;
+			font-style: normal;
+			text-decoration: underline;
+			padding: 6px 10px 7px 10px;
+			border: solid #000000;
+			border-width: 0px;
+			border-radius: 0;
+			box-shadow: none;
+		}
+		#navigation-ffcc5089-443e-6b0c-7aa5-4ff952a8e301 ul li {
+			margin: 0px 0px 0px 0px;
+		}
+		#navigation-ffcc5089-443e-6b0c-7aa5-4ff952a8e301 ul li > a {
+			font-weight: normal;
+			font-style: normal;
+			text-decoration: underline;
+			padding: 6px 10px 7px 10px;
+			border: solid #000000;
+			border-width: 0px;
+			border-radius: 0;
+			box-shadow: none;
+		}
+		#navigation-ffcc5089-443e-6b0c-7aa5-4ff952a8e301 li.selected,
+		#navigation-ffcc5089-443e-6b0c-7aa5-4ff952a8e301 li.childselected,
+		#navigation-ffcc5089-443e-6b0c-7aa5-4ff952a8e301 li.selected:hover,
+		#navigation-ffcc5089-443e-6b0c-7aa5-4ff952a8e301 li.childselected:hover,
+		#navigation-ffcc5089-443e-6b0c-7aa5-4ff952a8e301 li:hover {
+			margin: 0px 0px 0px 0px;
+		}
+		#navigation-ffcc5089-443e-6b0c-7aa5-4ff952a8e301 li.selected > a,
+		#navigation-ffcc5089-443e-6b0c-7aa5-4ff952a8e301 li.childselected > a,
+		#navigation-ffcc5089-443e-6b0c-7aa5-4ff952a8e301 li.selected:hover > a,
+		#navigation-ffcc5089-443e-6b0c-7aa5-4ff952a8e301 li.childselected:hover > a,
+		#navigation-ffcc5089-443e-6b0c-7aa5-4ff952a8e301 li:hover > a {
+			padding: 6px 10px 7px 10px;
+			border: solid #000000;
+			border-width: 0px;
+			border-radius: 0;
+			box-shadow: none;
+		}
+		#navigation-ffcc5089-443e-6b0c-7aa5-4ff952a8e301 ul li.selected,
+		#navigation-ffcc5089-443e-6b0c-7aa5-4ff952a8e301 ul li.childselected,
+		#navigation-ffcc5089-443e-6b0c-7aa5-4ff952a8e301 ul li.selected:hover,
+		#navigation-ffcc5089-443e-6b0c-7aa5-4ff952a8e301 ul li.childselected:hover,
+		#navigation-ffcc5089-443e-6b0c-7aa5-4ff952a8e301 ul li:hover {
+			margin: 0px 0px 0px 0px;
+		}
+		#navigation-ffcc5089-443e-6b0c-7aa5-4ff952a8e301 ul li.selected > a,
+		#navigation-ffcc5089-443e-6b0c-7aa5-4ff952a8e301 ul li.childselected > a,
+		#navigation-ffcc5089-443e-6b0c-7aa5-4ff952a8e301 ul li.selected:hover > a,
+		#navigation-ffcc5089-443e-6b0c-7aa5-4ff952a8e301 ul li.childselected:hover > a,
+		#navigation-ffcc5089-443e-6b0c-7aa5-4ff952a8e301 ul li:hover > a {
+			padding: 6px 10px 7px 10px;
+		}
+
+		#navigation-ffcc5089-443e-6b0c-7aa5-4ff952a8e301 > li.normal > a { color: #000000;}
+		#navigation-ffcc5089-443e-6b0c-7aa5-4ff952a8e301 > li.normal > a { background-color: transparent; } #navigation-ffcc5089-443e-6b0c-7aa5-4ff952a8e301 > li.normal > a { background-image: none; }
+		#navigation-ffcc5089-443e-6b0c-7aa5-4ff952a8e301 li.selected > a, #navigation-ffcc5089-443e-6b0c-7aa5-4ff952a8e301 li.childselected > a { color: #000000; }
+		#navigation-ffcc5089-443e-6b0c-7aa5-4ff952a8e301 ul > li.normal > a { color: #000000; }#navigation-ffcc5089-443e-6b0c-7aa5-4ff952a8e301 ul > li.normal > a { background-image: none; }
+		#navigation-ffcc5089-443e-6b0c-7aa5-4ff952a8e301 ul > li.normal > a { background-color: #FFFFFF; }
+		#navigation-ffcc5089-443e-6b0c-7aa5-4ff952a8e301 li.selected > a, #navigation-ffcc5089-443e-6b0c-7aa5-4ff952a8e301 li.childselected > a, #navigation-ffcc5089-443e-6b0c-7aa5-4ff952a8e301 ul > li.childselected > a { background-color: #FFFFFF; }
+		#navigation-ffcc5089-443e-6b0c-7aa5-4ff952a8e301 li.normal:hover > a { color: #000000; }
+		#navigation-ffcc5089-443e-6b0c-7aa5-4ff952a8e301 li.normal:hover > a { background-color: #FFFFFF; } #navigation-ffcc5089-443e-6b0c-7aa5-4ff952a8e301 li.selected > a, #navigation-ffcc5089-443e-6b0c-7aa5-4ff952a8e301 li.childselected > a, #navigation-ffcc5089-443e-6b0c-7aa5-4ff952a8e301 li.normal:hover > a { background-image: none; }
+		.mobile-view #navigation-ffcc5089-443e-6b0c-7aa5-4ff952a8e301 li.selected > a,
+		.mobile-view #navigation-ffcc5089-443e-6b0c-7aa5-4ff952a8e301 li.childselected > a { color: #000000; }.mobile-view #navigation-ffcc5089-443e-6b0c-7aa5-4ff952a8e301 li.selected > a,
+		.mobile-view #navigation-ffcc5089-443e-6b0c-7aa5-4ff952a8e301 li.childselected > a { background-color: transparent; }.mobile-view #navigation-ffcc5089-443e-6b0c-7aa5-4ff952a8e301 li:hover > a { color: #000000; }.mobile-view #navigation-ffcc5089-443e-6b0c-7aa5-4ff952a8e301 li:hover > a { background-color: transparent; }.mobile-view #navigation-ffcc5089-443e-6b0c-7aa5-4ff952a8e301 ul > li > a { color: #000000; }.mobile-view #navigation-ffcc5089-443e-6b0c-7aa5-4ff952a8e301 ul > li > a { background-color: transparent; }
