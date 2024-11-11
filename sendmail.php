@@ -11,7 +11,7 @@
 	$mail->IsHTML(true);
 
 	//От кого
-	$mail->setForm('Yukino23@yandex.ru', 'Обратная связь для родителей');
+	$mail->setFrom('Yukino23@yandex.ru', 'Обратная связь для родителей');
 	//Кому
 	$mail->addAddress('Tadayasu@yandex.ru');
 	//Тема
