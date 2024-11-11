@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', function() {
       let formData = new FormData(form);
 
       if (error === 0) {
-         let response = await fetch('sender.php', {
+         let response = await fetch('sendmail.php', {
             method: 'POST',
             body: formData
          });
