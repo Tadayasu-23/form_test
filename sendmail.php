@@ -4,7 +4,7 @@
 
 	require 'php-mailer-master/src/PHPMailer.php';
 	require 'php-mailer-master/src/Exception.php';
-	require 'path/to/PHPMailer/src/SMTP.php';
+	require 'php-mailer-master/src/SMTP.php';
 
 	$mail = new PHPMailer(true);
 	$mail->CharSet = 'UTD-8';
