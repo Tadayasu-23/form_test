@@ -165,7 +165,7 @@ input:focus {
    padding: 13px 15px;
    position: relative;
    left: 50%;
-   bottom: 25px;
+   bottom: 1px;
    transform: translate(-50%, 0);
    background-color: rgba(0, 0, 253, 0.712);
    font-weight: bold;
