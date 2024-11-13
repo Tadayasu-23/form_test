@@ -157,6 +157,10 @@ input:focus {
    margin-bottom: 50px;
 }
 
+.window__center {
+   margin-bottom: 25px;
+}
+
 .article__button {
    padding: 13px 15px;
    position: relative;
