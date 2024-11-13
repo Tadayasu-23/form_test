@@ -177,3 +177,7 @@ input:focus {
 .article__button:hover {
    cursor: pointer;
 }
+
+.pageclip-form__success__message {
+   content: 'Форма отправлена. Спасибо!'
+}
